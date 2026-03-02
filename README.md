@@ -18,6 +18,9 @@ Learn faster, search easily, and use commands anytime — even without internet.
     <img src="https://img.shields.io/badge/Download-APK-4CAF50?style=for-the-badge&logo=android&logoColor=white">
 </a>
 
+
+[Download Termux Tools & Commands Apk](https://github.com/Achik-Ahmed/Termux-Tools-and-Commands-Apk/releases/download/Apk/termux-tools-and-commands-v2.1.apk)
+
 </div>
 
 ## What Is This App?
