@@ -47,7 +47,7 @@ Here are the main details about the application:
 
 - **App Name:** Termux Tools & Commands  
 - **Version:** 2.1 
-- **File Size:** 7.7 MB  
+- **File Size:** 12 MB  
 - **Android Required:** Android 7.0 or higher  
 - **Root Access Needed:** No  
 - **Works Offline:** Yes  
